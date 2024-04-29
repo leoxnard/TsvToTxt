@@ -1,0 +1,2 @@
+Phenotype	Original	PCA100pearson	PCA90pearson	kernelPCA100	kernelPCA90	PCA90spearmann	PCA90cosine	PCA90euclidean	Normalized	PCA100norm	PCA90norm	hfchr	PCA100hfchr
+measurements_standing_height_f50_0_0	0.213648	0.143526	0.059941	0.184114	0.058153	0.050737	Error	Error	0.213668	0.143567	0.060828	0.115516	0.081289
